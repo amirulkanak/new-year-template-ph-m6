@@ -1,0 +1,28 @@
+<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="24" height="25" fill="#1E1E1E"/>
+<g id="Landing Page Design" clip-path="url(#clip0_110_2)">
+<rect width="1600" height="7335" transform="translate(-1074 -6854)" fill="white"/>
+<g id="Group 59">
+<rect id="Rectangle 10" x="-1074" y="-127.93" width="1600" height="609" fill="#070211"/>
+<g id="Group 43">
+<g id="Group 42">
+<g id="Group 40">
+<g id="Frame" clip-path="url(#clip1_110_2)">
+<path id="Vector" d="M5 4.07031H9L11 9.07031L8.5 10.5703C9.57096 12.7418 11.3285 14.4994 13.5 15.5703L15 13.0703L20 15.0703V19.0703C20 19.6007 19.7893 20.1095 19.4142 20.4845C19.0391 20.8596 18.5304 21.0703 18 21.0703C14.0993 20.8333 10.4202 19.1768 7.65683 16.4135C4.8935 13.6502 3.23705 9.97105 3 6.07031C3 5.53988 3.21071 5.03117 3.58579 4.6561C3.96086 4.28103 4.46957 4.07031 5 4.07031Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M15 7.07031C15.5304 7.07031 16.0391 7.28103 16.4142 7.6561C16.7893 8.03117 17 8.53988 17 9.07031" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M15 3.07031C16.5913 3.07031 18.1174 3.70245 19.2426 4.82767C20.3679 5.95289 21 7.47901 21 9.07031" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_110_2">
+<rect width="1600" height="7335" fill="white" transform="translate(-1074 -6854)"/>
+</clipPath>
+<clipPath id="clip1_110_2">
+<rect width="24" height="24" fill="white" transform="translate(0 0.0703125)"/>
+</clipPath>
+</defs>
+</svg>
